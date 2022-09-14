@@ -21,9 +21,7 @@ Firstly change *api_id* and *api_hash* in *main.py* on data from https://my.tele
     
 ## Usage
 
-```bash
-  /help in DM3
-```
+/help in DM
 
 
 ## Authors
